@@ -1,16 +1,57 @@
-## Hi there 👋
+# hey, i'm adam 👋
 
-<!--
-**adamkoch4221/adamkoch4221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+cs + applied math @ berkeley
 
-Here are some ideas to get you started:
+i like building **fast systems**, breaking bottlenecks, and working on stuff where performance actually matters.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## things i've worked on
+
+**⚡ trading systems @ robinhood**
+
+* built backend services in C++ handling real-time transactions
+* improved throughput by ~25% during peak load
+* reduced duplicate transactions + cut latency pretty significantly
+
+**🧪 simulation / research**
+
+* wrote high-performance C++ sims for stochastic systems
+* used monte carlo + numerical methods
+* optimized runtime + made things actually scalable
+
+**🌊 fluid simulation **
+
+* navier–stokes solver from scratch
+* crank–nicolson + conjugate gradient methods
+* focused on stability + performance on large grids
+
+---
+
+## what i care about
+
+* low latency systems
+* distributed infra
+* performance optimization
+* writing code that actually scales
+
+---
+
+## stack
+
+**languages:** c++, python, c, java, ts/js
+**infra:** linux, aws, docker, kubernetes
+**db:** postgres, mysql, redis
+
+---
+
+## random stats
+
+* usaco platinum
+* icpc nac
+* putnam fellow
+* 3.9 gpa
+
+---
+
+## reach me
+
+📧 [adamkoch4221@gmail.com](mailto:adamkoch4221@gmail.com)
