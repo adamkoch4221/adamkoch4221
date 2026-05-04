@@ -6,19 +6,13 @@ i like building **fast systems**, breaking bottlenecks, and working on stuff whe
 
 ## things i've worked on
 
-**⚡ trading systems @ robinhood**
-
-* built backend services in C++ handling real-time transactions
-* improved throughput by ~25% during peak load
-* reduced duplicate transactions + cut latency pretty significantly
-
 **🧪 simulation / research**
 
 * wrote high-performance C++ sims for stochastic systems
 * used monte carlo + numerical methods
 * optimized runtime + made things actually scalable
 
-**🌊 fluid simulation **
+**🌊 fluid simulation**
 
 * navier–stokes solver from scratch
 * crank–nicolson + conjugate gradient methods
